@@ -1,24 +1,26 @@
-# Awesome-Mine-Planning-Software
+# ⛏️ Awesome Mine Planning Software 💎
 
-## Top Mine Planning Software Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Mine Planning Software Banner" width="100%"/>
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Mine-Planning-Software"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mine-Planning-Software?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Mine-Planning-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Mine-Planning-Software?style=social" alt="GitHub forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Mine-Planning-Software/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Mine-Planning-Software?color=blue" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+## 🌋 Top Mine Planning Software & Mining Engineering Ecosystem 🏗️
 
-### Comprehensive Mine Planning, Geological Modelling, Mine Design, Optimization, Scheduling & Open-Source Software
+### 📐 Comprehensive Mine Planning, Geological Modelling, Mine Design, Pit Optimization, Production Scheduling & Open-Source Software Stacks
 
+> 🌟 A curated ecosystem of commercial / SaaS / hosted mine-planning platforms and **open-source software, libraries, frameworks and tools** for 3D geological modelling, mineral resource estimation, block modelling, open-pit optimization, underground mine design, Gantt scheduling, haulage simulation, production planning, scientific 3D visualization, and mine economics.
 
+**Primary emphasis:** Open-source alternatives, composable Python stacks, and enterprise mining technology integration.
 
-> A curated ecosystem of commercial / SaaS / hosted mine-planning platforms and **open-source software, libraries, frameworks and tools** for geological modelling, resource estimation, block modelling, pit optimization, underground design, scheduling, haulage, production planning, visualization and mine economics.
-
-
-
-**Primary emphasis:** Open-source alternatives and composable software stacks.
-
-
-
-**Last Updated:** September 2026
-
-
+📅 **Last Updated:** September 2026
 
 ---
 
@@ -130,11 +132,15 @@
 
 * [How to Contribute](#how-to-contribute)
 
+* [Support & Community](#support--community)
+
 * [Useful Resources](#useful-resources)
 
 * [Disclaimer](#disclaimer)
 
 * [Summary](#summary)
+
+* [Star History](#-star-history)
 
 
 
@@ -408,7 +414,7 @@ The strongest open-source approach is therefore **compositional**.
 
 
 
-## MiningPy
+## MiningPy [<img src="https://img.shields.io/github/stars/miningpy/miningpy?style=social&color=white" alt="stars"/>](https://github.com/miningpy/miningpy/stargazers)
 
 
 
@@ -492,7 +498,7 @@ Visualization
 
 
 
-## GemPy
+## GemPy [<img src="https://img.shields.io/github/stars/gempy-project/gempy?style=social&color=white" alt="stars"/>](https://github.com/gempy-project/gempy/stargazers)
 
 
 
@@ -572,7 +578,75 @@ GemPy should be viewed as a geological modelling component rather than a complet
 
 
 
-## PyGSLIB
+## SciPy [<img src="https://img.shields.io/github/stars/scipy/scipy?style=social&color=white" alt="stars"/>](https://github.com/scipy/scipy/stargazers)
+
+
+
+**Repository:** https://github.com/scipy/scipy
+
+
+
+**Website:** https://scipy.org/
+
+
+
+SciPy provides fundamental algorithms for scientific computing, spatial data structures (KDTree, Voronoi, Delaunay), spatial interpolation, and statistical distributions essential for resource estimation.
+
+
+
+### Capabilities
+
+
+
+* Spatial data structures & nearest-neighbor search
+
+* Spatial interpolation (RBF, splines, griddata)
+
+* Statistical distributions & trend fitting
+
+* Matrix solvers for kriging systems
+
+
+
+---
+
+
+
+## scikit-learn [<img src="https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social&color=white" alt="stars"/>](https://github.com/scikit-learn/scikit-learn/stargazers)
+
+
+
+**Repository:** https://github.com/scikit-learn/scikit-learn
+
+
+
+**Website:** https://scikit-learn.org/
+
+
+
+Widely used for exploratory geostatistical analysis, domain clustering, lithology classification, Gaussian Process regression, and grade prediction.
+
+
+
+### Capabilities
+
+
+
+* Gaussian Process Regression (Kriging equivalency)
+
+* Lithology domain clustering (K-Means, DBSCAN)
+
+* Supervised grade classification & estimation
+
+* Dimensionality reduction (PCA, t-SNE)
+
+
+
+---
+
+
+
+## PyGSLIB [<img src="https://img.shields.io/github/stars/opengeostat/pygslib?style=social&color=white" alt="stars"/>](https://github.com/opengeostat/pygslib/stargazers)
 
 
 
@@ -592,27 +666,15 @@ PyGSLIB provides Python access to GSLIB-based geostatistical functionality.
 
 
 
-* Drillhole processing
-
-* Compositing
+* Drillhole processing & compositing
 
 * Desurveying
 
-* Variograms
+* Variography & spatial autocorrelation
 
-* Interpolation
+* Ordinary/Universal Kriging & Simulation
 
-* Kriging
-
-* Simulation
-
-* Geostatistics
-
-* Resource estimation
-
-* Validation
-
-* Reproducible workflows
+* Resource estimation validation
 
 
 
@@ -620,7 +682,7 @@ PyGSLIB provides Python access to GSLIB-based geostatistical functionality.
 
 
 
-## GeostatsPy
+## GeostatsPy [<img src="https://img.shields.io/github/stars/GeostatsGuy/GeostatsPy?style=social&color=white" alt="stars"/>](https://github.com/GeostatsGuy/GeostatsPy/stargazers)
 
 
 
@@ -634,19 +696,11 @@ PyGSLIB provides Python access to GSLIB-based geostatistical functionality.
 
 * Exploratory data analysis
 
-* Variograms
+* Experimental variograms & model fitting
 
-* Kriging
+* Ordinary kriging & Sequential Gaussian Simulation (SGS)
 
-* Sequential simulation
-
-* Geostatistical modelling
-
-* Spatial statistics
-
-* Resource-estimation workflows
-
-* Educational examples
+* Spatial statistics & educational workflows
 
 
 
@@ -654,7 +708,75 @@ PyGSLIB provides Python access to GSLIB-based geostatistical functionality.
 
 
 
-## SGeMS
+## SimPEG [<img src="https://img.shields.io/github/stars/simpeg/simpeg?style=social&color=white" alt="stars"/>](https://github.com/simpeg/simpeg/stargazers)
+
+
+
+**Repository:** https://github.com/simpeg/simpeg
+
+
+
+**Website:** https://simpeg.xyz/
+
+
+
+SimPEG (Simulation and Parameter Estimation in Geophysics) is a Python framework for geophysical inversion and forward modeling, critical for defining orebody geometry and subsurface constraints.
+
+
+
+### Capabilities
+
+
+
+* Geophysical forward modeling & inversion (Gravity, Magnetic, DC Resistivity, EM)
+
+* Mesh generation for subsurface inversion
+
+* Integration of geophysical domains into geological models
+
+
+
+---
+
+
+
+## pyGIMLi [<img src="https://img.shields.io/github/stars/gimli-org/gimli?style=social&color=white" alt="stars"/>](https://github.com/gimli-org/gimli/stargazers)
+
+
+
+**Repository:** https://github.com/gimli-org/gimli
+
+
+
+**Website:** https://www.gimli.org/
+
+
+
+An open-source library for modeling and inversion in geophysics, providing multi-threaded finite-element solvers for subsurface resource modelling.
+
+
+
+---
+
+
+
+## scikit-gstat [<img src="https://img.shields.io/github/stars/mmaelicke/scikit-gstat?style=social&color=white" alt="stars"/>](https://github.com/mmaelicke/scikit-gstat/stargazers)
+
+
+
+**Repository:** https://github.com/mmaelicke/scikit-gstat
+
+
+
+A flexible, SciPy-backed Python module for variogram analysis and spatial statistics in geostatistics.
+
+
+
+---
+
+
+
+## SGeMS [<img src="https://img.shields.io/github/stars/gerwathome/sgems?style=social&color=white" alt="stars"/>](https://github.com/gerwathome/sgems/stargazers)
 
 
 
@@ -784,7 +906,7 @@ Mine optimization is one of the areas where open-source software is most natural
 
 
 
-## Pyomo
+## Pyomo [<img src="https://img.shields.io/github/stars/Pyomo/pyomo?style=social&color=white" alt="stars"/>](https://github.com/Pyomo/pyomo/stargazers)
 
 
 
@@ -822,7 +944,7 @@ Useful for:
 
 
 
-## OR-Tools
+## OR-Tools [<img src="https://img.shields.io/github/stars/google/or-tools?style=social&color=white" alt="stars"/>](https://github.com/google/or-tools/stargazers)
 
 
 
@@ -850,7 +972,7 @@ Useful for:
 
 
 
-## HiGHS
+## HiGHS [<img src="https://img.shields.io/github/stars/ERGO-Code/HiGHS?style=social&color=white" alt="stars"/>](https://github.com/ERGO-Code/HiGHS/stargazers)
 
 
 
@@ -1188,7 +1310,7 @@ Schedule
 
 
 
-## PyVista
+## PyVista [<img src="https://img.shields.io/github/stars/pyvista/pyvista?style=social&color=white" alt="stars"/>](https://github.com/pyvista/pyvista/stargazers)
 
 
 
@@ -1232,7 +1354,7 @@ PyVista provides Python-based 3D visualization and mesh analysis.
 
 
 
-## VTK
+## VTK [<img src="https://img.shields.io/github/stars/Kitware/VTK?style=social&color=white" alt="stars"/>](https://github.com/Kitware/VTK/stargazers)
 
 
 
@@ -1248,7 +1370,7 @@ VTK provides the underlying scientific visualization infrastructure used by many
 
 
 
-## Open3D
+## Open3D [<img src="https://img.shields.io/github/stars/isl-org/Open3D?style=social&color=white" alt="stars"/>](https://github.com/isl-org/Open3D/stargazers)
 
 
 
@@ -1276,11 +1398,51 @@ Useful for:
 
 
 
+## ParaView [<img src="https://img.shields.io/github/stars/Kitware/ParaView?style=social&color=white" alt="stars"/>](https://github.com/Kitware/ParaView/stargazers)
+
+
+
+**Repository:** https://github.com/Kitware/ParaView
+
+
+
+**Website:** https://www.paraview.org/
+
+
+
+VTK-backed multi-platform data analysis and visualization application widely used for large-scale 3D block-model rendering and simulation post-processing.
+
+
+
+---
+
+
+
+## CGAL — Computational Geometry Algorithms Library [<img src="https://img.shields.io/github/stars/CGAL/cgal?style=social&color=white" alt="stars"/>](https://github.com/CGAL/cgal/stargazers)
+
+
+
+**Repository:** https://github.com/CGAL/cgal
+
+
+
+**Website:** https://www.cgal.org/
+
+
+
+Provides robust C++ 3D mesh processing, convex hulls, Delaunay triangulation, surface reconstruction, and Boolean operations on 3D pit/stope solids.
+
+
+
+---
+
+
+
 # 10. GIS & Spatial Data
 
 
 
-## QGIS
+## QGIS [<img src="https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white" alt="stars"/>](https://github.com/qgis/QGIS/stargazers)
 
 
 
@@ -1352,7 +1514,7 @@ Useful for:
 
 
 
-## GDAL
+## GDAL [<img src="https://img.shields.io/github/stars/OSGeo/gdal?style=social&color=white" alt="stars"/>](https://github.com/OSGeo/gdal/stargazers)
 
 
 
@@ -1378,15 +1540,51 @@ Useful for:
 
 
 
+## GeoPandas [<img src="https://img.shields.io/github/stars/geopandas/geopandas?style=social&color=white" alt="stars"/>](https://github.com/geopandas/geopandas/stargazers)
+
+
+
+**Repository:** https://github.com/geopandas/geopandas
+
+
+
+**Website:** https://geopandas.org/
+
+
+
+Extends Pandas data objects to enable spatial operations on geometric types for mine lease boundaries, drillhole collar coordinates, and infrastructure layouts.
+
+
+
+---
+
+
+
+## Rasterio [<img src="https://img.shields.io/github/stars/rasterio/rasterio?style=social&color=white" alt="stars"/>](https://github.com/rasterio/rasterio/stargazers)
+
+
+
+**Repository:** https://github.com/rasterio/rasterio
+
+
+
+Python access to geospatial raster data, digital elevation models (DEMs), and surface topographic grids for surface mining terrain analysis.
+
+
+
+---
+
+
+
 # 11. Data Interchange
 
 
 
-## Open Mining Format — OMF
+## Open Mining Format — OMF [<img src="https://img.shields.io/github/stars/gmggroup/omf-python?style=social&color=white" alt="stars"/>](https://github.com/gmggroup/omf-python/stargazers)
 
 
 
-**Repository:** https://github.com/gmggroup/omf
+**Repository:** https://github.com/gmggroup/omf-python
 
 
 
@@ -1442,31 +1640,15 @@ Recommended open-source optimization ecosystem:
 
 
 
-| Project   | Primary Use                    |
-
-| --------- | ------------------------------ |
-
-| Pyomo     | Mathematical optimization      |
-
-| HiGHS     | LP / MILP                      |
-
-| SCIP      | MILP / constraint optimization |
-
-| OR-Tools  | Scheduling / routing           |
-
-| SciPy     | Numerical optimization         |
-
-| CVXPY     | Convex optimization            |
-
-| PuLP      | Linear programming             |
-
-| NetworkX  | Graph optimization             |
-
-| DEAP      | Evolutionary algorithms        |
-
-| Nevergrad | Black-box optimization         |
-
-| Optuna    | Hyperparameter optimization    |
+| Project | Stars | Primary Use | Repository |
+| :--- | :--- | :--- | :--- |
+| **SciPy** | [<img src="https://img.shields.io/github/stars/scipy/scipy?style=social&color=white" alt="stars"/>](https://github.com/scipy/scipy/stargazers) | Scientific computing & numerical optimization | [scipy/scipy](https://github.com/scipy/scipy) |
+| **OR-Tools** | [<img src="https://img.shields.io/github/stars/google/or-tools?style=social&color=white" alt="stars"/>](https://github.com/google/or-tools/stargazers) | Constraint programming, routing, scheduling | [google/or-tools](https://github.com/google/or-tools) |
+| **CVXPY** | [<img src="https://img.shields.io/github/stars/cvxpy/cvxpy?style=social&color=white" alt="stars"/>](https://github.com/cvxpy/cvxpy/stargazers) | Convex optimization & mathematical modeling | [cvxpy/cvxpy](https://github.com/cvxpy/cvxpy) |
+| **Pyomo** | [<img src="https://img.shields.io/github/stars/Pyomo/pyomo?style=social&color=white" alt="stars"/>](https://github.com/Pyomo/pyomo/stargazers) | Algebraic modeling for linear/MIP/NLP | [Pyomo/pyomo](https://github.com/Pyomo/pyomo) |
+| **HiGHS** | [<img src="https://img.shields.io/github/stars/ERGO-Code/HiGHS?style=social&color=white" alt="stars"/>](https://github.com/ERGO-Code/HiGHS/stargazers) | Fast open-source LP / MILP solver | [ERGO-Code/HiGHS](https://github.com/ERGO-Code/HiGHS) |
+| **Coin-or Cbc** | [<img src="https://img.shields.io/github/stars/coin-or/Cbc?style=social&color=white" alt="stars"/>](https://github.com/coin-or/Cbc/stargazers) | Open-source mixed integer programming solver | [coin-or/Cbc](https://github.com/coin-or/Cbc) |
+| **SCIP** | — | MILP & constraint integer programming | [scipopt.org](https://www.scipopt.org/) |
 
 
 
@@ -4506,10 +4688,19 @@ QGIS / PostGIS
 
    ↓
 
-Enterprise Mine Planning Platform
+---
 
-```
+# Support & Community 💖
 
+If you find this repository helpful for your mining engineering research, software development, or mine planning workflows, please consider supporting the project:
 
+* 🌟 **Star this repository** to help others discover it!
+* 🍴 **Fork it** to contribute new tools, libraries, or architecture improvements.
+* 📢 **Share it** with fellow mining engineers, geostatisticians, and software developers.
+* ☕ **Sponsor / Buy a Coffee:** Support ongoing maintenance and curation on the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
-> **The most realistic open-source strategy is not to recreate one monolithic mining application. It is to combine specialized open-source components into a reproducible, API-driven mine-planning platform.**
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Mine-Planning-Software&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Mine-Planning-Software&type=date&legend=top-left)
