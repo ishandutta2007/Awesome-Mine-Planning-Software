@@ -513,43 +513,24 @@ NPV / Risk
 
 # Commercial → Open-Source Mapping
 
-
-
-| Commercial Platform      | Major Capability                | Open-Source Building Blocks        |
-
-| ------------------------ | ------------------------------- | ---------------------------------- |
-
-| Deswik                   | Integrated planning             | MiningPy + Pyomo + QGIS + PyVista  |
-
-| Datamine                 | Geological + planning           | GemPy + PyGSLIB + MiningPy + Pyomo |
-
-| Micromine                | Geological + scheduling         | GemPy + PyGSLIB + MiningPy + Pyomo |
-
-| GEOVIA Surpac            | Geological modelling            | GemPy + PyGSLIB + PyVista          |
-
-| GEOVIA Whittle           | Pit optimization                | Pyomo + HiGHS + MiningPy           |
-
-| Maptek Vulcan            | 3D modelling + mine design      | GemPy + PyVista + QGIS + VTK       |
-
-| Maptek Evolution         | Scheduling                      | Pyomo + OR-Tools + HiGHS           |
-
-| Hexagon MinePlan         | Mine planning                   | MiningPy + Pyomo + QGIS + PyVista  |
-
-| Leapfrog Geo             | Implicit modelling              | GemPy + PyVista                    |
-
-| RPMGlobal XERAS          | Mine economics                  | Pandas + Pyomo + NumPy + Plotly    |
-
-| MineSched                | Scheduling                      | Pyomo + OR-Tools + HiGHS           |
-
-| Carlson Mining           | CAD / survey / mine engineering | QGIS + GDAL + PyVista + Python     |
-
-| Mining data interchange  | Proprietary formats             | OMF                                |
-
-| Geostatistical modelling | Resource estimation             | PyGSLIB + GeostatsPy               |
-
-| 3D visualization         | Mine visualization              | PyVista + VTK                      |
-
-| Spatial analysis         | GIS                             | QGIS + GRASS GIS                   |
+| Commercial Platform | Major Capability | Open-Source Building Blocks |
+| :--- | :--- | :--- |
+| **Deswik** | Integrated Mine Planning & Design | MiningPy + Pyomo + QGIS + PyVista |
+| **Datamine** | Geological Modelling & Pit Optimization | GemPy + PyGSLIB + MiningPy + Pyomo |
+| **Micromine** | Geological Modelling & Scheduling | GemPy + PyGSLIB + MiningPy + Pyomo |
+| **GEOVIA Surpac** | Geological Modelling & Block Models | GemPy + PyGSLIB + PyVista |
+| **GEOVIA Whittle** | Open-Pit Shell Optimization | Pyomo + HiGHS + MiningPy |
+| **Maptek Vulcan** | 3D Structural Modelling & Mine Design | GemPy + PyVista + QGIS + VTK |
+| **Maptek Evolution** | Strategic Production Scheduling | Pyomo + OR-Tools + HiGHS |
+| **Hexagon MinePlan** | Life-of-Mine Engineering & Optimization | MiningPy + Pyomo + QGIS + PyVista |
+| **Leapfrog Geo** | Implicit 3D Structural Modelling | GemPy + PyVista |
+| **RPMGlobal XERAS** | Mine Financial Modeling & Forecasting | Pandas + Pyomo + NumPy + Plotly |
+| **MineSched** | Gantt Production Scheduling | Pyomo + OR-Tools + HiGHS |
+| **Carlson Mining** | Surveying, CAD & Volumetrics | QGIS + GDAL + PyVista + Python |
+| **Proprietary Formats** | Mining Data Interchange | Open Mining Format (OMF) |
+| **Geostatistics** | Mineral Resource Estimation | PyGSLIB + GeostatsPy + scikit-gstat |
+| **3D Visualization** | Block Model & Orebody Rendering | PyVista + VTK + ParaView + Open3D |
+| **Spatial Analysis** | GIS & Lease Boundaries | QGIS + GeoPandas + GRASS GIS + GDAL |
 
 
 
