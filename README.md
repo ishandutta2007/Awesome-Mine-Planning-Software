@@ -310,55 +310,29 @@ The global mine planning and mining software market is estimated at **$2.5 Billi
 
 # Additional Commercial Platforms
 
-
-
 Other commercial products and ecosystems relevant to mine planning include:
 
-
-
-| Platform             | Primary Area              |
-
-| -------------------- | ------------------------- |
-
-| GEOVIA Whittle       | Pit optimization          |
-
-| GEOVIA MineSched     | Mine scheduling           |
-
-| Hexagon MinePlan     | Mine planning             |
-
-| Maptek Evolution     | Mine scheduling           |
-
-| Datamine Studio OP   | Open-pit planning         |
-
-| Datamine Studio NPVS | Strategic planning        |
-
-| Datamine Studio UG   | Underground planning      |
-
-| Deswik Planning      | Scheduling                |
-
-| Deswik APEX          | Strategic optimization    |
-
-| Deswik OPS           | Operational planning      |
-
-| Micromine Origin     | Geological modelling      |
-
-| Micromine Beyond     | Mine planning             |
-
-| Leapfrog Geo         | Geological modelling      |
-
-| Leapfrog Works       | Geological modelling      |
-
-| RPM MinePlanner      | Mine planning             |
-
-| RPM XERAS            | Mine economics            |
-
-| Carlson Mining       | Mining CAD / surveying    |
-
-| Minemax Scheduler    | Mine scheduling           |
-
-| Minemax Studio       | Optimization / scheduling |
-
-| Whittle              | Pit optimization          |
+| Platform | Primary Area | Product Ecosystem / Owner |
+| :--- | :--- | :--- |
+| **GEOVIA Whittle** | Open-Pit Mine Optimization | Dassault Systèmes |
+| **GEOVIA MineSched** | Mine Production Scheduling | Dassault Systèmes |
+| **Hexagon MinePlan** | Life-of-Mine Engineering & Operations | Hexagon AB |
+| **Maptek Evolution** | Strategic Mine Scheduling & Haulage | Maptek |
+| **Datamine Studio OP** | Open-Pit Design & Planning | Constellation Software / Vela |
+| **Datamine Studio NPVS** | Strategic Pit Optimization & NPV | Constellation Software / Vela |
+| **Datamine Studio UG** | Underground Mine Design | Constellation Software / Vela |
+| **Deswik Planning** | Gantt Production Scheduling | Sandvik AB |
+| **Deswik APEX** | Strategic Mine Optimization | Sandvik AB |
+| **Deswik OPS** | Operational Shift Planning | Sandvik AB |
+| **Micromine Origin** | Geological Modelling & Exploration | The Weir Group |
+| **Micromine Beyond** | Mine Design & Production Planning | The Weir Group |
+| **Leapfrog Geo** | Implicit 3D Structural Modelling | Bentley Systems / Seequent |
+| **Leapfrog Works** | Civil & Subsurface Infrastructure | Bentley Systems / Seequent |
+| **RPM MinePlanner** | Mine Design & Production Planning | Caterpillar Inc. / RPMGlobal |
+| **RPM XERAS** | Financial Modeling & Cost Forecasting | Caterpillar Inc. / RPMGlobal |
+| **Carlson Mining** | Mining CAD, Volumetrics & Surveying | Carlson Software |
+| **Minemax Scheduler** | Strategic Mine & Schedule Optimization | Minemax |
+| **Minemax Studio** | Haulage & NPV Schedule Optimization | Minemax |
 
 
 
