@@ -542,63 +542,35 @@ NPV / Risk
 
 
 
-| Capability                            | Commercial Suites | Open-Source Availability |
-
-| ------------------------------------- | ----------------: | -----------------------: |
-
-| Drillhole Management                  |         Excellent |                     Good |
-
-| Geological Modelling                  |         Excellent |                     Good |
-
-| Implicit Modelling                    |         Excellent |                     Good |
-
-| Geostatistics                         |         Excellent |                     Good |
-
-| Resource Estimation                   |         Excellent |                     Good |
-
-| Block Modelling                       |         Excellent |                     Good |
-
-| 3D Visualization                      |         Excellent |                Excellent |
-
-| GIS                                   |              Good |                Excellent |
-
-| Pit Optimization                      |         Excellent |               Developing |
-
-| Pushback Optimization                 |         Excellent |               Developing |
-
-| Open-Pit Design                       |         Excellent |               Developing |
-
-| Underground Design                    |         Excellent |               Developing |
-
-| Stope Optimization                    |         Excellent |               Developing |
-
-| Strategic Scheduling                  |         Excellent |               Developing |
-
-| Tactical Scheduling                   |         Excellent |               Developing |
-
-| Short-Term Scheduling                 |         Excellent |               Developing |
-
-| Haulage Optimization                  |         Excellent |               Developing |
-
-| Stockpile Optimization                |         Excellent |                     Good |
-
-| Blending                              |         Excellent |                     Good |
-
-| NPV Optimization                      |         Excellent |                     Good |
-
-| Mathematical Optimization             |         Excellent |                Excellent |
-
-| Machine Learning                      |              Good |                Excellent |
-
-| Data Engineering                      |              Good |                Excellent |
-
-| APIs                                  |        Increasing |                Excellent |
-
-| Reproducibility                       |          Variable |                Excellent |
-
-| Extensibility                         |          Variable |                Excellent |
-
-| Proprietary Mine Workflow Integration |         Excellent |               Developing |
+| Capability | Commercial Suites | Open-Source Availability |
+| :--- | :---: | :---: |
+| Drillhole Management | Excellent | Good |
+| Geological Modelling | Excellent | Good |
+| Implicit Modelling | Excellent | Good |
+| Geostatistics | Excellent | Good |
+| Resource Estimation | Excellent | Good |
+| Block Modelling | Excellent | Good |
+| 3D Visualization | Excellent | Excellent |
+| GIS | Good | Excellent |
+| Pit Optimization | Excellent | Developing |
+| Pushback Optimization | Excellent | Developing |
+| Open-Pit Design | Excellent | Developing |
+| Underground Design | Excellent | Developing |
+| Stope Optimization | Excellent | Developing |
+| Strategic Scheduling | Excellent | Developing |
+| Tactical Scheduling | Excellent | Developing |
+| Short-Term Scheduling | Excellent | Developing |
+| Haulage Optimization | Excellent | Developing |
+| Stockpile Optimization | Excellent | Good |
+| Blending | Excellent | Good |
+| NPV Optimization | Excellent | Good |
+| Mathematical Optimization | Excellent | Excellent |
+| Machine Learning | Good | Excellent |
+| Data Engineering | Good | Excellent |
+| APIs | Increasing | Excellent |
+| Reproducibility | Variable | Excellent |
+| Extensibility | Variable | Excellent |
+| Proprietary Mine Workflow Integration | Excellent | Developing |
 
 
 
