@@ -347,7 +347,7 @@ Other commercial products and ecosystems relevant to mine planning include:
 
 ## Open-Source Repositories (Sorted by Stars)
 
-| Repository | Stars | Primary Category / Focus | Key Capabilities & Description | Link |
+| Repository | Github_Stars | Primary Category / Focus | Key Capabilities & Description | Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **scikit-learn** | [<img src="https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social&color=white" alt="stars"/>](https://github.com/scikit-learn/scikit-learn/stargazers) | Machine Learning & Geostatistics | Domain clustering, lithology classification, Gaussian Process regression, and grade prediction | [scikit-learn.org](https://scikit-learn.org/) |
 | **SciPy** | [<img src="https://img.shields.io/github/stars/scipy/scipy?style=social&color=white" alt="stars"/>](https://github.com/scipy/scipy/stargazers) | Scientific Computing & Spatial Interpolation | Spatial data structures (KDTree, Voronoi), RBF/spline interpolation, and matrix solvers for kriging | [scipy.org](https://scipy.org/) |
